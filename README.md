@@ -18,6 +18,8 @@ I'm [Mansi Manhas](https://www.linkedin.com/in/mansimanhas/) and I'm a frontend 
 ![MYSQL](https://img.shields.io/badge/-MYSQL-000?&logo=MYSQL)
 ![MSAzure](https://img.shields.io/badge/-MSAzure-000?&logo=Azure)
 
+![giphy](https://user-images.githubusercontent.com/18692751/219429648-5ca7da55-ed8b-47b1-82fb-80714eafb819.gif)
+
 ### Roles and day-to-day activites:
 - Development of webpages, decoupled components and high-quality UI libraries
 - Interpret UI designs, collaborate with designers, product managers, and backend engineers
