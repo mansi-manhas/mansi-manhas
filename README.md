@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [Mansi Manhas](https://www.linkedin.com/in/mansimanhas/) and I'm a frontend software engineer with ~6 years of experience working with enterprise applications. 
+I'm [Mansi Manhas](https://www.linkedin.com/in/mansimanhas/) and I'm a frontend software engineer with 6 years of experience working with enterprise applications. 
 
 ### Tech Stack 
 
