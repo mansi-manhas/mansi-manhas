@@ -33,11 +33,13 @@ I'm [Mansi Manhas](https://www.linkedin.com/in/mansimanhas/) and I'm a frontend 
 1. [Dahsboard UI](https://github.com/mansi-manhas/dashboard)
 ![image](https://user-images.githubusercontent.com/18692751/235984722-f0a6d53c-fd04-48a9-84bb-184f80c60778.png)
 
+2. [Results Summary Component using HTML + CSS Grid and flexbox](https://github.com/mansi-manhas/result-summary-component-using-css-grid-and-flexbox)
+![image](https://user-images.githubusercontent.com/18692751/235986292-d19c0f00-558b-4b97-95d0-b9eda811c5b6.png)
 
-2. [Agile Central Dashboard & Automating Sub Task Creation in Jira](https://github.com/mansi-manhas/jira-board-daily-scrum)
+3. [Agile Central Dashboard & Automating Sub Task Creation in Jira](https://github.com/mansi-manhas/jira-board-daily-scrum)
 ![image](https://user-images.githubusercontent.com/18692751/219423213-b048ce86-d0d7-4890-97e5-c35469c2f92b.png)
 
-3. [Autocomplete Suggestion React Component (using debounce for better performance)](https://github.com/mansi-manhas/react-autocomplete-autosuggestion-component)
+4. [Autocomplete Suggestion React Component (using debounce for better performance)](https://github.com/mansi-manhas/react-autocomplete-autosuggestion-component)
 
 
 ### Latest Articles
