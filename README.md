@@ -30,15 +30,21 @@ I'm [Mansi Manhas](https://www.linkedin.com/in/mansimanhas/) and I'm a frontend 
 
 ### Latest Repos
 
-1. [Agile Central Dashboard & Automating Sub Task Creation in Jira](https://github.com/mansi-manhas/jira-board-daily-scrum)
+1. [Dahsboard UI](https://github.com/mansi-manhas/dashboard)
+![image](https://user-images.githubusercontent.com/18692751/235984722-f0a6d53c-fd04-48a9-84bb-184f80c60778.png)
+
+
+2. [Agile Central Dashboard & Automating Sub Task Creation in Jira](https://github.com/mansi-manhas/jira-board-daily-scrum)
 ![image](https://user-images.githubusercontent.com/18692751/219423213-b048ce86-d0d7-4890-97e5-c35469c2f92b.png)
 
-2. [Autocomplete Suggestion React Component (using debounce for better performance)](https://github.com/mansi-manhas/react-autocomplete-autosuggestion-component)
+3. [Autocomplete Suggestion React Component (using debounce for better performance)](https://github.com/mansi-manhas/react-autocomplete-autosuggestion-component)
 
 
-### Latest Article 
+### Latest Articles
 
-[React.js Performance Optimization Techniques](https://levelup.gitconnected.com/react-js-performance-optimization-techniques-39728d89e56e)
+1. [React.js Performance Optimization Techniques](https://levelup.gitconnected.com/react-js-performance-optimization-techniques-39728d89e56e)
+2. [The Ultimate Guide For Creating Amazing Web Designs](https://medium.com/geekculture/the-ultimate-guide-for-creating-amazing-web-designs-141c366ec51f)
+3. [Mastering Low-Level Design](https://levelup.gitconnected.com/mastering-low-level-design-technical-interviews-tips-and-resources-1df00522d334)
 
 ### Certifications
 
