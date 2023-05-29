@@ -6,11 +6,17 @@ I'm [Mansi Manhas](https://www.linkedin.com/in/mansimanhas/) and I'm a frontend 
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
-![Styled-Components](https://img.shields.io/badge/-StyledComponents-000?&logo=StyledComponents)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=prisma)
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML)
+
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)
+![Styled-Components](https://img.shields.io/badge/-StyledComponents-000?&logo=StyledComponents)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwindcss)
+
 ![Node](https://img.shields.io/badge/-Node-000?&logo=Node)
 ![Expres](https://img.shields.io/badge/-Express-000?&logo=Express)
 
@@ -36,13 +42,19 @@ I'm [Mansi Manhas](https://www.linkedin.com/in/mansimanhas/) and I'm a frontend 
 2. [Results Summary Component using HTML + CSS Grid and flexbox](https://github.com/mansi-manhas/result-summary-component-using-css-grid-and-flexbox)
 ![image](https://user-images.githubusercontent.com/18692751/235986292-d19c0f00-558b-4b97-95d0-b9eda811c5b6.png)
 
-3. [SQL Editor View with Performance Optimizations and implementation of Virtualization](https://github.com/mansi-manhas/sql-query-editor-view)
+3. [eCommerce Application using NextJS, PlanetScale, Prisma, and Stripe Payment Gateway](https://github.com/mansi-manhas/ecommerce-website-using-nextjs-planetscale-prisma-and-stripe/tree/main)
+   ![image](https://github.com/mansi-manhas/mansi-manhas/assets/18692751/74d4d6ea-4e6b-4958-a3aa-86c2d7f90519)
+
+   ![image](https://github.com/mansi-manhas/mansi-manhas/assets/18692751/45914a75-6d9e-4ecb-9f2c-a2e3255cce1a)
+
+
+4. [SQL Editor View with Performance Optimizations and implementation of Virtualization](https://github.com/mansi-manhas/sql-query-editor-view)
 ![image](https://user-images.githubusercontent.com/18692751/236386041-0f763645-49e7-4abe-920d-a350554845a0.png)
 
-4. [Agile Central Dashboard & Automating Sub Task Creation in Jira](https://github.com/mansi-manhas/jira-board-daily-scrum)
+5. [Agile Central Dashboard & Automating Sub Task Creation in Jira](https://github.com/mansi-manhas/jira-board-daily-scrum)
 ![image](https://user-images.githubusercontent.com/18692751/219423213-b048ce86-d0d7-4890-97e5-c35469c2f92b.png)
 
-5. [Autocomplete Suggestion React Component (using debounce for better performance)](https://github.com/mansi-manhas/react-autocomplete-autosuggestion-component)
+6. [Autocomplete Suggestion React Component (using debounce for better performance)](https://github.com/mansi-manhas/react-autocomplete-autosuggestion-component)
 
 
 ### Latest Articles
