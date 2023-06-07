@@ -23,6 +23,16 @@ I'm [Mansi Manhas](https://www.linkedin.com/in/mansimanhas/) and I'm a frontend 
 ![Postgress](https://img.shields.io/badge/-Postgress-000?&logo=Postgress)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-000?&logo=MYSQL)
 ![MSAzure](https://img.shields.io/badge/-MSAzure-000?&logo=Azure)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+
+Testing Libs & Other Tools
+
+![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
+![Karma](https://img.shields.io/badge/-Karma-000?&logo=Karma)
+![Qunits](https://img.shields.io/badge/-Qunits-000?&logo=Qunit)
+![SonarQube](https://img.shields.io/badge/-SonarQube-000?&logo=SonarQube)
+![Kibana](https://img.shields.io/badge/-Kibana-000?&logo=Kibana)
+![MSAzureDevOps](https://img.shields.io/badge/-MSAzure-000?&logo=Azure)
 
 ![giphy](https://user-images.githubusercontent.com/18692751/219429648-5ca7da55-ed8b-47b1-82fb-80714eafb819.gif)
 
