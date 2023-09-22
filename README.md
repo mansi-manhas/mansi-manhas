@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [Mansi Manhas](https://www.linkedin.com/in/mansimanhas/) and I'm a frontend software engineer with 6 years of experience working with enterprise applications. 
+I'm [Mansi Manhas](https://www.linkedin.com/in/mansimanhas/) and I'm a senior software engineer with 6+ years of experience working with enterprise applications. 
 
 ### Tech Stack 
 
@@ -36,7 +36,7 @@ Testing Libs & Other Tools
 
 ![giphy](https://user-images.githubusercontent.com/18692751/219429648-5ca7da55-ed8b-47b1-82fb-80714eafb819.gif)
 
-### Roles and day-to-day activites:
+### Roles and day-to-day activities:
 - Development of webpages, decoupled components and high-quality UI libraries
 - Interpret UI designs, collaborate with designers, product managers, and backend engineers
 - Performance SPOC 
