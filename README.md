@@ -64,31 +64,37 @@ Testing Libs & Other Tools
 
 ### Projects
 
-1. [DataViz Dashboard](https://github.com/mansi-manhas/dashboard)
+1. [Free AI Blog Title and Meta Description Generator](https://github.com/mansi-manhas/free-ai-blog-title-and-meta-description-generator/)
+      - This tool generates engaging, SEO-friendly blog titles and meta descriptions using target keywords or your blog content.
+      - Build using Next.js
+      - Deployed through Vercel
+   ![image](https://github.com/mansi-manhas/free-ai-blog-title-and-meta-description-generator/assets/18692751/d202382d-de09-4451-b940-d3716af4d4c3)
+
+3. [DataViz Dashboard](https://github.com/mansi-manhas/dashboard)
      - DataViz Dashboard is a web application that helps users visualize and analyze their data interactively and intuitively.
      - It is built with ReactJs, TypeScript, and Styled Components, using modern web development technologies and best practices.
      - Users can choose from different types of charts to display their data, view key metrics at a glance, and customize their dashboard as per their requirements.
    ![image](https://user-images.githubusercontent.com/18692751/235984722-f0a6d53c-fd04-48a9-84bb-184f80c60778.png)
 
-3. [eCommerce Application using NextJS, PlanetScale, Prisma, and Stripe Payment Gateway](https://github.com/mansi-manhas/ecommerce-website-using-nextjs-planetscale-prisma-and-stripe/tree/main)
+4. [eCommerce Application using NextJS, PlanetScale, Prisma, and Stripe Payment Gateway](https://github.com/mansi-manhas/ecommerce-website-using-nextjs-planetscale-prisma-and-stripe/tree/main)
      - This is a modern and user-friendly eCommerce platform that allows customers to browse and buy various products online.
      - It is built with the latest web technologies such as ReactJS, NextJS, TailwindCSS, PlanetScale, Prisma, and Stripe.
    ![image](https://github.com/mansi-manhas/mansi-manhas/assets/18692751/74d4d6ea-4e6b-4958-a3aa-86c2d7f90519)
    ![image](https://github.com/mansi-manhas/mansi-manhas/assets/18692751/45914a75-6d9e-4ecb-9f2c-a2e3255cce1a)
 
 
-4. [Agile Central Dashboard & Automating Sub Task Creation in Jira](https://github.com/mansi-manhas/jira-board-daily-scrum)
+5. [Agile Central Dashboard & Automating Sub Task Creation in Jira](https://github.com/mansi-manhas/jira-board-daily-scrum)
      - This web application provides a comprehensive and convenient view of all Jira tasks across multiple teams for managers.
      - It is built using ReactJs and NodeJs.
      - The application consists of a dark-themed user interface with a navigation bar and various widgets displaying different types of data. The application allows managers to see the overall score, daily bug statistics, sonar issues, and active sprint information for each team.
    ![image](https://user-images.githubusercontent.com/18692751/219423213-b048ce86-d0d7-4890-97e5-c35469c2f92b.png)
 
-5. [SQL Editor View with Performance Optimizations and implementation of Virtualization](https://github.com/mansi-manhas/sql-query-editor-view)
+6. [SQL Editor View with Performance Optimizations and implementation of Virtualization](https://github.com/mansi-manhas/sql-query-editor-view)
      - The SQL Editor View is a web application that allows users to write, run, and view the results of SQL queries on a mock database.
      - The application is optimized for fast loading and rendering of large data sets.
    ![image](https://user-images.githubusercontent.com/18692751/236386041-0f763645-49e7-4abe-920d-a350554845a0.png)
 
-6. [Results Summary Component using HTML + CSS Grid and flexbox](https://github.com/mansi-manhas/result-summary-component-using-css-grid-and-flexbox)
+7. [Results Summary Component using HTML + CSS Grid and flexbox](https://github.com/mansi-manhas/result-summary-component-using-css-grid-and-flexbox)
      - This component built using HTML and CSS, is a user interface that displays the results of a test taken by the user.
      - It is responsive to all device sizes. 
    ![image](https://user-images.githubusercontent.com/18692751/235986292-d19c0f00-558b-4b97-95d0-b9eda811c5b6.png)
