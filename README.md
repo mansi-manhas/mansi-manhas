@@ -68,7 +68,7 @@ Testing Libs & Other Tools
       - This tool generates engaging, SEO-friendly blog titles and meta descriptions using target keywords or your blog content.
       - Build using Next.js
       - Deployed through Vercel
-   ![image](https://github.com/mansi-manhas/free-ai-blog-title-and-meta-description-generator/assets/18692751/d202382d-de09-4451-b940-d3716af4d4c3)
+   ![image](https://github.com/mansi-manhas/free-ai-blog-title-and-meta-description-generator/assets/18692751/c078f1bd-8df7-4859-8fe8-e03f73ec2390)
 
 3. [DataViz Dashboard](https://github.com/mansi-manhas/dashboard)
      - DataViz Dashboard is a web application that helps users visualize and analyze their data interactively and intuitively.
