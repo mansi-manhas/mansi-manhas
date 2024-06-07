@@ -113,7 +113,11 @@ Testing Libs & Other Tools
 - Microsoft Azure Certified: Data Fundamentals
 - Digital Skills - User Experience hosted by Accenture on FutureLearn
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mansi-manhas&hide_progress=true&theme=dark)](https://github.com/mansi-manhas/github-readme-stats)
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mansi-manhas&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 <!--
 **mansi-manhas/mansi-manhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
