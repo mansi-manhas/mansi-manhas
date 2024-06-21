@@ -97,11 +97,10 @@ This component built using HTML and CSS, is a user interface that displays the r
 - Microsoft Azure Certified: Data Fundamentals
 - Digital Skills - User Experience hosted by Accenture on FutureLearn
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mansi-manhas&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+
 
 <!--
 **mansi-manhas/mansi-manhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
