@@ -50,9 +50,6 @@ Testing Libs & Other Tools
 ### [My Portfolio Page](https://www.mansimanhas.in/)
 ![image](https://github.com/mansi-manhas/mansi-manhas/assets/18692751/a67f2d7f-4a5d-4224-a81d-9f84c2ef2350)
 
-### [Simple portfolio webpage for developers](https://github.com/mansi-manhas/portfolio-webpage)
-![image](https://github.com/mansi-manhas/portfolio-webpage/assets/18692751/ccc90f04-704a-4367-8a40-52fb91534a27)
-
 ### [Free AI Blog Title and Meta Description Generator](https://github.com/mansi-manhas/free-ai-blog-title-and-meta-description-generator/)
 This tool generates engaging, SEO-friendly blog titles and meta descriptions using target keywords or your blog content.
 Built using Next.js and deployed using vercel
@@ -75,6 +72,9 @@ This web application provides a comprehensive and convenient view of all Jira ta
 ### [SQL Editor View with Performance Optimizations and implementation of Virtualization](https://github.com/mansi-manhas/sql-query-editor-view)
 The SQL Editor View is a web application that allows users to write, run, and view the results of SQL queries on a mock database. The application is optimized for fast loading and rendering of large data sets.
 ![image](https://user-images.githubusercontent.com/18692751/236386041-0f763645-49e7-4abe-920d-a350554845a0.png)
+
+### [Simple portfolio webpage for developers](https://github.com/mansi-manhas/portfolio-webpage)
+![image](https://github.com/mansi-manhas/portfolio-webpage/assets/18692751/ccc90f04-704a-4367-8a40-52fb91534a27)
 
 ### [Results Summary Component using HTML + CSS Grid and flexbox](https://github.com/mansi-manhas/result-summary-component-using-css-grid-and-flexbox)
 This component built using HTML and CSS, is a user interface that displays the results of a test taken by the user. It is responsive to all device sizes. 
