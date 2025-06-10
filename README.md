@@ -47,19 +47,6 @@ Testing Libs & Other Tools
 
 ## Side projects
 
-### [My Portfolio Page](https://www.mansimanhas.in/)
-![image](https://github.com/mansi-manhas/mansi-manhas/assets/18692751/a67f2d7f-4a5d-4224-a81d-9f84c2ef2350)
-
-### [Free AI Blog Title and Meta Description Generator](https://github.com/mansi-manhas/free-ai-blog-title-and-meta-description-generator/)
-This tool generates engaging, SEO-friendly blog titles and meta descriptions using target keywords or your blog content.
-Built using Next.js and deployed using vercel
-![image](https://github.com/mansi-manhas/free-ai-blog-title-and-meta-description-generator/assets/18692751/c078f1bd-8df7-4859-8fe8-e03f73ec2390)
-
-### [Free AI Cover Letter Generator](https://github.com/mansi-manhas/free-ai-cover-letter-generator)
-This tool generates genuine cover letters using user's resume and the job description. 
-Built using React.js and Node.js
-![image](https://github.com/mansi-manhas/free-ai-cover-letter-generator/assets/18692751/d55c1cb0-895d-4b0a-b0a1-ff8391c4ceca)
-
 ### [DataViz Dashboard](https://github.com/mansi-manhas/dashboard)
 DataViz Dashboard is a web application that helps users visualize and analyze their data interactively and intuitively. It is built with ReactJs, TypeScript, and Styled Components, using modern web development technologies and best practices.
 Users can choose from different types of charts to display their data, view key metrics at a glance, and customize their dashboard as per their requirements.
@@ -72,6 +59,19 @@ This web application provides a comprehensive and convenient view of all Jira ta
 ### [SQL Editor View with Performance Optimizations and implementation of Virtualization](https://github.com/mansi-manhas/sql-query-editor-view)
 The SQL Editor View is a web application that allows users to write, run, and view the results of SQL queries on a mock database. The application is optimized for fast loading and rendering of large data sets.
 ![image](https://user-images.githubusercontent.com/18692751/236386041-0f763645-49e7-4abe-920d-a350554845a0.png)
+
+### [Free AI Blog Title and Meta Description Generator](https://github.com/mansi-manhas/free-ai-blog-title-and-meta-description-generator/)
+This tool generates engaging, SEO-friendly blog titles and meta descriptions using target keywords or your blog content.
+Built using Next.js and deployed using vercel
+![image](https://github.com/mansi-manhas/free-ai-blog-title-and-meta-description-generator/assets/18692751/c078f1bd-8df7-4859-8fe8-e03f73ec2390)
+
+### [Free AI Cover Letter Generator](https://github.com/mansi-manhas/free-ai-cover-letter-generator)
+This tool generates genuine cover letters using user's resume and the job description. 
+Built using React.js and Node.js
+![image](https://github.com/mansi-manhas/free-ai-cover-letter-generator/assets/18692751/d55c1cb0-895d-4b0a-b0a1-ff8391c4ceca)
+
+### [My Portfolio Page](https://www.mansimanhas.in/)
+![image](https://github.com/mansi-manhas/mansi-manhas/assets/18692751/a67f2d7f-4a5d-4224-a81d-9f84c2ef2350)
 
 ### [Simple portfolio webpage for developers](https://github.com/mansi-manhas/portfolio-webpage)
 ![image](https://github.com/mansi-manhas/portfolio-webpage/assets/18692751/ccc90f04-704a-4367-8a40-52fb91534a27)
