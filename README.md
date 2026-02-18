@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [Mansi Manhas](https://www.mansimanhas.in/) and I'm a senior software engineer with ~7 years of extensive experience in full-stack development, application performance optimization, and team mentoring.
+I'm [Mansi Manhas](https://www.mansimanhas.in/) and I'm a senior software engineer with ~9 years of extensive experience in full-stack development, application performance optimization, and team mentoring.
 
 Let's link up on [LinkedIn](https://www.linkedin.com/in/mansimanhas/)!
 
